@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>Welocome to portfolio</title>
     <link rel="stylesheet" href="assets/css/main.css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-    <script src="https://code.angularjs.org/1.6.4/angular-route.js"></script>
+    <script src="assets/js/angular.min.js"></script>
+    <script src="assets/js/angular-route.js"></script>
     <script src="assets/js/main.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <base href="/">
@@ -68,13 +68,14 @@
 <div id="main" >
     <ng-view></ng-view>
 </div>
-<!--
+<!-- Scripts -->
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/jquery.scrolly.min.js"></script>
 <script src="assets/js/jquery.scrollzer.min.js"></script>
 <script src="assets/js/skel.min.js"></script>
 <script src="assets/js/util.js"></script>
-<script src="assets/js/main.js"></script>
--->
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main1.js"></script>
+
 </body>
 </html>
