@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("fontsSans.css");
 
 /*
 	Prologue by HTML5 UP
@@ -2004,27 +2004,36 @@
 	}
 
 		#header .top {
+			-moz-flex-grow: 0;
+			-webkit-flex-grow: 0;
+			-ms-flex-grow: 0;
+			flex-grow: 0;
+		}
+
+		#header .bottom {
+                        text-align: left;
+                        padding-left: 2em;
+                        padding-right: 2em;
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
 			flex-grow: 1;
 		}
-
-		#header .bottom {
-			-moz-flex-shrink: 0;
-			-webkit-flex-shrink: 0;
-			-ms-flex-shrink: 0;
-			flex-shrink: 0;
-			padding: 1.5em 0 0.75em 0;
-		}
+                
+                #header .bottom h4 {
+                    color: #fff;
+                    padding-top: 1em;
+                    text-align: center;
+                }
 
 			#header .bottom > :last-child {
-				margin-bottom: 0;
+				margin-top: 0.5em;
 			}
 
-		#header .icons {
-			font-size: 0.8em;
-			text-align: center;
+		#header .icons {      
+			font-size: 1em;
+                        border: 1px #41484c solid;
+			
 		}
 
 			#header .icons a {
@@ -2035,7 +2044,7 @@
 				transition: color 0.35s ease-in-out;
 			}
 
-				#header .icons a:hover {
+				#header  a:hover {
 					color: #fff;
 				}
 
