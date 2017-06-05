@@ -1,5 +1,5 @@
-var express = require('express')
-, http = require('http'), path = require('path');
+var express = require('express');
+var http = require('http'), path = require('path');
  
 var app = express();
 app.use(express.static(path.join(__dirname, 'app')));
