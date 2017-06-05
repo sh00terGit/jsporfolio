@@ -1,0 +1,10 @@
+{
+    "name": "jsporfolio.local",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "ivc_shipul",
+    "contributors": [],
+    "dependencies": {    
+       "express": "^4.15.3"
+    }
+}
