@@ -1614,6 +1614,7 @@
 		margin: 0 0 2em 0;
 	}
 
+
 		header > p {
 			margin: 0 0 0 0;
 		}
@@ -2571,5 +2572,9 @@
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
+
+		header h2 {
+			text-align: center;
+		}
 
 	}
