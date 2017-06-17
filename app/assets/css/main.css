@@ -1729,8 +1729,9 @@
 
 		.image.featured {
 			display: block;
-			width: 100%;
-			margin: 0 0 2em 0;
+			width: 60%;
+			margin: 0 2em 2em 0;
+			float: left;
 		}
 
 		.image.left {
@@ -2286,6 +2287,9 @@
 				margin-bottom: 20px;
 			}
 
+
+
+
 		/* Header */
 
 			#header {
@@ -2411,6 +2415,9 @@
 				margin: 1.5em 1.25em 1.25em 1.25em;
 			}
 
+
+
+
 			#nav ul li a {
 				padding: 0.5em 1.25em 0.5em 1.25em;
 			}
@@ -2528,6 +2535,7 @@
 				font-size: 14pt;
 			}
 
+
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
@@ -2573,7 +2581,6 @@
 					margin-top: 0;
 				}
 
-		header h2 {
 			text-align: center;
 		}
 

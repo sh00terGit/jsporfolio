@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e712f63-0155-422f-88e4-0727eb946328" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/css/fontsSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/js/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/js/angular-route12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/js/angular12.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/resume.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/app/assets/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="$PROJECT_DIR$/app/assets/css/ie8.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/app/assets/css/ie9.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/ie/grad0-15.svg" afterPath="$PROJECT_DIR$/app/assets/css/images/ie/grad0-15.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" afterPath="$PROJECT_DIR$/app/assets/css/images/overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/app/assets/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/app/assets/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/avatar.jpg" afterPath="$PROJECT_DIR$/app/assets/images/avatar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/banner.jpg" afterPath="$PROJECT_DIR$/app/assets/images/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/face.jpg" afterPath="$PROJECT_DIR$/app/assets/images/face.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/fon.jpg" afterPath="$PROJECT_DIR$/app/assets/images/fon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/fon2.jpg" afterPath="$PROJECT_DIR$/app/assets/images/fon2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic02.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic03.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic04.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic05.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic06.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic07.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/pic08.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pic08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" afterPath="$PROJECT_DIR$/app/assets/js/ie/PIE.htc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/app/assets/js/ie/backgroundsize.min.htc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="$PROJECT_DIR$/app/assets/js/ie/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="$PROJECT_DIR$/app/assets/js/ie/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/app/assets/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/app/assets/js/jquery.scrolly.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.scrollzer.min.js" afterPath="$PROJECT_DIR$/app/assets/js/jquery.scrollzer.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/app/assets/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/main1.js" afterPath="$PROJECT_DIR$/app/assets/js/main1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/app/assets/js/skel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/app/assets/js/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jsportfolio.local.conf" afterPath="$PROJECT_DIR$/app/jsportfolio.local.conf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/app/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/css/main.css" afterPath="$PROJECT_DIR$/app/assets/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,31 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="428">
               <caret line="72" column="47" lean-forward="true" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,18 +40,18 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46404">
-              <caret line="2578" column="0" lean-forward="false" selection-start-line="2578" selection-start-column="0" selection-end-line="2578" selection-end-column="0" />
+            <state relative-caret-position="-155">
+              <caret line="2550" column="24" lean-forward="false" selection-start-line="2550" selection-start-column="24" selection-end-line="2550" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -138,6 +67,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.image.featured</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -150,6 +84,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/app/about.html" />
       </list>
     </option>
   </component>
@@ -161,7 +97,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
+    <option name="width" value="1348" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -355,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6490000" />
+    <option name="totallyTimeSpent" value="10497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,11 +303,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="741" extended-state="0" />
+    <frame x="0" y="0" width="1348" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25334322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -476,30 +412,6 @@
     <entry file="file://$PROJECT_DIR$/assets/js/resume.html" />
     <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46404">
-          <caret line="2578" column="0" lean-forward="false" selection-start-line="2578" selection-start-column="0" selection-end-line="2578" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -525,18 +437,42 @@
     <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="428">
           <caret line="72" column="47" lean-forward="true" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="-155">
+          <caret line="2550" column="24" lean-forward="false" selection-start-line="2550" selection-start-column="24" selection-end-line="2550" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
